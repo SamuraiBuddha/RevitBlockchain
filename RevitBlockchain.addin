@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RevitBlockchain</Name>
+    <Assembly>RevitBlockchain.dll</Assembly>
+    <FullClassName>RevitBlockchain.Application</FullClassName>
+    <ClientId>12345678-1234-1234-1234-123456789012</ClientId>
+    <VendorId>EBIC</VendorId>
+    <VendorDescription>Ehrig BIM &amp; IT Consultation Inc</VendorDescription>
+    <Description>Blockchain-based change tracking and audit system for Revit</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
